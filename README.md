@@ -2,7 +2,6 @@
 
 ## Author: github.com/C0derPenguin 
 
-__________________________________________________________________________________________
 
 Files for thesis on network programming
 
